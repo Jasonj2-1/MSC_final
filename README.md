@@ -39,7 +39,7 @@ LCD_display.c - waveform, text, volume/progressing bar control.
 
 ```
 
-The timer trigger and byte read/sent logic are compared in this project.
-Different sampling rates are compared.
+The timer trigger and byte read/sent logic are compared in this project.\n
+Different sampling rates are compared.\n
 The results are analysed with reasons for the data flow/read speed.
 
