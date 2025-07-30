@@ -34,7 +34,7 @@ The detailed information is illustrated in the report.
 The code writing is referenced with LEEDS API, such as HPS_PrivateTimer.c.
 
 ```
-main.c - SD card Read, Audio data input/output, Key/Switch control, codec volume control, and LCD control. 
+main.c - SD card Read, Audio data input/output, Key/Switch control, codec configuration control, and LCD control. 
 LCD_display.c - Waveform, text, frame, volume/progressing bar control.
 
 ```
