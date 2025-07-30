@@ -1,4 +1,4 @@
-This project aims to complete an embedded music player that is interactive with Switches, keys, and an LCD.
+This project aims to complete an DE1-SoC embedded music player that is interactive with SD card, WM8731 codec, DDR3 SDRAM, Switches, keys, and an LCD.
 
 The function is controlled by interfaces:
 
