@@ -33,8 +33,11 @@ The detailed information is illustrated in the report.
 
 The code writing is referenced with LEEDS API, such as HPS_PrivateTimer.c.
 
+```
 main.c - written independently, including music output, Key/Switch control, codec volume control, and LCD control. 
 LCD_display.c - waveform, text, volume/progressing bar control.
+
+```
 
 The timer trigger and byte read/sent logic are compared in this project.
 Different sampling rates are compared.
