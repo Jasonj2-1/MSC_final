@@ -14,6 +14,14 @@ SW[1]  -  Music Swicthing
 ```
 LCD displays the music wavform, volume bar, loading progress and Text.
 
+# Overview
+
+<img width="512" height="316" alt="image" src="https://github.com/user-attachments/assets/fcfa0de6-babe-4766-bcba-1d689a1c27c4" />
+
+# Hardware block diagram
+
+<img width="514" height="288" alt="image" src="https://github.com/user-attachments/assets/a0d47f36-3cc5-4121-9280-b6e78dec726f" />
+
 # LCD Layout
 
 <img width="269" height="290" alt="image" src="https://github.com/user-attachments/assets/13b52e9c-76cd-4a6a-aa3e-68786f5997f4" />
