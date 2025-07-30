@@ -12,6 +12,7 @@ KEY[3]  -  Decrease volume
 SW[0]  -  Music Ready Flag
 SW[1]  -  Music Swicthing
 ```
+Initially, SW1 should be switched off before music 2 is loaded.
 LCD displays the music wavform, volume bar, loading progress and Text.
 
 # Overview
